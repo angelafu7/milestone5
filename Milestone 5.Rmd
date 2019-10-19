@@ -1,0 +1,21 @@
+---
+title: "Milestone 5"
+author: "Angela Fu"
+date: "10/18/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Summary
+These visualizations compare both national and local elections campaign donations trends. They use Alabama residents to analyze differences in who people decide to donate to in federal elections versus local elections. Individual visualizations also offer insight into which candidates and PACs are more popular among Alabama voters.
+
+## Background
+Data about contributions made during federal elections are from the Federal Election Commission, which requires campaigns and political committees to disclose all donations. They also keep track of donors' names, addresses, and occupations.
+
+Data about contributions made during local elections are from the nonprofit, the National Institute on Money in Politics, which maintains data on campaign donations on its website FollowTheMoney.org
+
+## Creator
+I am a senior at Harvard College studying Government. Feel free to reach out to me at afu@college.harvard.edu with any questions.
